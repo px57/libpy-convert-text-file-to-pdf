@@ -1,0 +1,8 @@
+{
+    "base_path": "/var/projects/xitapp_new/xit-master/server/file_slot/libs/convert_text_file_to_pdf/.gpm/base.json",
+    "gpm_path": "/var/projects/xitapp_new/xit-master/server/file_slot/libs/convert_text_file_to_pdf/.gpm",
+    "name": "libpy-convert-text-file-to-pdf",
+    "project_type": "module",
+    "repository_url": "https://github.com/px57/libpy-convert-text-file-to-pdf.git",
+    "root_path": "/var/projects/xitapp_new/xit-master/server/file_slot/libs/convert_text_file_to_pdf"
+}
